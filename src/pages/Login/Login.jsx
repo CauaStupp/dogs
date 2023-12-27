@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
-import LoginForm from '../../components/outhers/LoginForm'
+import LoginForm from '../../components/Outhers/LoginForm'
 import LoginCreate from './LoginCreate'
 import LoginPasswordLost from './LoginPasswordLost'
 import LoginPasswordReset from './LoginPasswordReset'
